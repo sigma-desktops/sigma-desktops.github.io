@@ -1,7 +1,5 @@
 > [specs](../)
 
-![banner](/photos/banner.png)
-
 ## CPU
 
 | Category     | Brand | Model         | Frequency | Cores | Threads | Graphics |
