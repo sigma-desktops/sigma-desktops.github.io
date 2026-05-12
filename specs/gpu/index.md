@@ -2,7 +2,7 @@
 
 ## GPU
 
-| Category     | Brand  | Model                   | Graphics   |  Passmark* | CyberPunk 2077* |
+| Category     | Brand  | Model                   | Graphics   |  Passmark* | CyberPunk&nbsp;2077* |
 |:-------------|:-------|:------------------------|:-----------|-----------:|----------------:|
 | Essential    | AMD    | Ryzen&nbsp;5&nbsp;4600G | Integrated |      2,300 |                 |  
 | Standard     | AMD    | Ryzen 7 5700G           | Integrated |      2,700 |                 | 
