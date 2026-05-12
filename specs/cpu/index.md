@@ -4,7 +4,7 @@
 
 | Category     | Brand | Model        | Frequency | Cores | Threads | Graphics |
 |:-------------|:------|:-------------|:--|:--|:--|:--|
-| Essential    | AMD   | AMD R5 4600G |  |  |  | Integrated |
-| Standard     | AMD   | AMD R7 5700G |  |  |  | Integrated |
-| Gaming       | AMD   | AMD R5 5600  |  |  |  | Separate   |
-| Professional | AMD   | AMD R7 5800X |  |  |  | Separate   |
+| Essential    | AMD   | Ryzen 5 4600G |  |  |  | Integrated |
+| Standard     | AMD   | Ryzen 7 5700G |  |  |  | Integrated |
+| Gaming       | AMD   | Ryzen 5 5600  |  |  |  | Separate   |
+| Professional | AMD   | RYzen 7 5800X |  |  |  | Separate   |
