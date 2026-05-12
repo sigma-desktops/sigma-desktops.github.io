@@ -2,7 +2,7 @@
 
 ## CPU
 
-| Category     | Brand | Model                   | Boost Clock | Cores | Threads | Graphics   | Cinebennch&nbsp;R23* | CS2* |
+| Category     | Brand | Model                   | Boost&nbsp;Clock | Cores | Threads | Graphics   | Cinebennch&nbsp;R23* | CS2* |
 |:-------------|:------|:------------------------|------------:|------:|--------:|:-----------|----------------:|-----:|
 | Essential    | AMD   | Ryzen&nbsp;5&nbsp;4600G |      4.2GHz |     6 |      12 | Integrated |           9,000 |  200 |
 | Standard     | AMD   | Ryzen 7 5700G           |      4.6GHz |     8 |      16 | Integrated |          13,500 |  360 |
