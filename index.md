@@ -1,3 +1,3 @@
 > [specs](specs)
 
-![flyer](photos/Flyer.png)
+![flyer](photos/flyer.png)
