@@ -9,5 +9,5 @@
 | Gaming       | AMD   | Ryzen 5 5600  | 4.4GHz      | 6     | 12      | Separate   |     10,000 |  370 |
 | Professional | AMD   | Ryzen 7 5800X | 4.7GHz      | 8     | 16      | Separate   |     15,700 |  650 |
 
-> *Cinebench R23
+> *Cinebench R23  
 > *CS2 FPS Under A CPU Bound Scenario
