@@ -2,5 +2,5 @@
 
 ## Contact
 
-github.desktops@gmail.com
+sigma.desktops@gmail.com
 
